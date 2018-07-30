@@ -1,2 +1,2 @@
 # Webscraping
-Examples of scripts using webscraping to extract and analyse data.
+Examples of scripts using Web Scraping to extract and analyze data.
